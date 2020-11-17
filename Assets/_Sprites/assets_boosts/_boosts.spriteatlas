@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _boosts
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: bc060b102456f7a4e8dd1dc945c1595e, type: 3}
+    - {fileID: 2800000, guid: a66273d0403dc6b48a1ed8bc0cc550d6, type: 3}
+    - {fileID: 2800000, guid: f94e74c151d6cc44ca0ab4d82b381413, type: 3}
+    - {fileID: 2800000, guid: a212c532873776c46b49c0fc217acf42, type: 3}
+    - {fileID: 2800000, guid: 813488833ea2d9345ae59d97f2773193, type: 3}
+    - {fileID: 2800000, guid: 092514f4b6bb3d44e81d8df4e4e1b8b2, type: 3}
+    - {fileID: 2800000, guid: fd4392f7a96cc2348b1551d376d13632, type: 3}
+    - {fileID: 2800000, guid: 7434f338aaebdef4bbf121477a54611e, type: 3}
+    - {fileID: 2800000, guid: 0baf014924dd3b94aad17d829079b3a1, type: 3}
+    - {fileID: 2800000, guid: a06cf14cef0c9ae45a86e27e7a9b103a, type: 3}
+    - {fileID: 2800000, guid: 5aafa3cd27df74c4c915b69c35af8a31, type: 3}
+    - {fileID: 2800000, guid: a7b2285f3b6200744a6aa1981080b28f, type: 3}
+    totalSpriteSurfaceArea: 1242556
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bc060b102456f7a4e8dd1dc945c1595e, type: 3}
+  - {fileID: 21300000, guid: a66273d0403dc6b48a1ed8bc0cc550d6, type: 3}
+  - {fileID: 21300000, guid: f94e74c151d6cc44ca0ab4d82b381413, type: 3}
+  - {fileID: 21300000, guid: a212c532873776c46b49c0fc217acf42, type: 3}
+  - {fileID: 21300000, guid: 813488833ea2d9345ae59d97f2773193, type: 3}
+  - {fileID: 21300000, guid: 092514f4b6bb3d44e81d8df4e4e1b8b2, type: 3}
+  - {fileID: 21300000, guid: fd4392f7a96cc2348b1551d376d13632, type: 3}
+  - {fileID: 21300000, guid: 7434f338aaebdef4bbf121477a54611e, type: 3}
+  - {fileID: 21300000, guid: 0baf014924dd3b94aad17d829079b3a1, type: 3}
+  - {fileID: 21300000, guid: a06cf14cef0c9ae45a86e27e7a9b103a, type: 3}
+  - {fileID: 21300000, guid: 5aafa3cd27df74c4c915b69c35af8a31, type: 3}
+  - {fileID: 21300000, guid: a7b2285f3b6200744a6aa1981080b28f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - boost_2x
+  - little_boost_4x
+  - boost_3x_glowing
+  - little_boost_2x
+  - boost_glow_4x
+  - boost_4x
+  - boost_4x_glowing
+  - boost_2x_glowing
+  - boost_glow_3x
+  - boost_3x
+  - boost_glow_2x
+  - little_boost_3x
+  m_Tag: _boosts
+  m_IsVariant: 0

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _dialog_boosts
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 935ad1f08ae721d488b689af16f17eb6, type: 3}
+    - {fileID: 2800000, guid: 998a06e207844a941b60d106066c8e26, type: 3}
+    - {fileID: 2800000, guid: e2f70a13ab355b74f8cfbcd4e60abb77, type: 3}
+    - {fileID: 2800000, guid: ba1cf993f379b76478695144b6ea558b, type: 3}
+    - {fileID: 2800000, guid: 6c2c4125108a60a4ea6cd2680f41149f, type: 3}
+    - {fileID: 2800000, guid: d91080a54cbfa594c9aa830698451f28, type: 3}
+    - {fileID: 2800000, guid: 4b66308681a75b34a97361e1b073eecf, type: 3}
+    - {fileID: 2800000, guid: 3fa77f97b94734340a0a4af319b79e8b, type: 3}
+    - {fileID: 2800000, guid: e1e39dacfb50c3149b6a0fbe27f1be6f, type: 3}
+    - {fileID: 2800000, guid: 88d5841ec094f3e498e7d5ec25b777a2, type: 3}
+    totalSpriteSurfaceArea: 2094646
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 935ad1f08ae721d488b689af16f17eb6, type: 3}
+  - {fileID: 21300000, guid: 998a06e207844a941b60d106066c8e26, type: 3}
+  - {fileID: 21300000, guid: e2f70a13ab355b74f8cfbcd4e60abb77, type: 3}
+  - {fileID: 21300000, guid: ba1cf993f379b76478695144b6ea558b, type: 3}
+  - {fileID: 21300000, guid: 6c2c4125108a60a4ea6cd2680f41149f, type: 3}
+  - {fileID: 21300000, guid: d91080a54cbfa594c9aa830698451f28, type: 3}
+  - {fileID: 21300000, guid: 4b66308681a75b34a97361e1b073eecf, type: 3}
+  - {fileID: 21300000, guid: 3fa77f97b94734340a0a4af319b79e8b, type: 3}
+  - {fileID: 21300000, guid: e1e39dacfb50c3149b6a0fbe27f1be6f, type: 3}
+  - {fileID: 21300000, guid: 88d5841ec094f3e498e7d5ec25b777a2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - d_boosts_item_blue
+  - d_boosts_bg
+  - d_boosts_btn
+  - d_boosts_item_empty
+  - d_boosts_item_down
+  - d_boosts_item
+  - d_boosts_btn_down
+  - d_boosts_item_red
+  - d_boosts_item_green
+  - d_boosts_item_purple
+  m_Tag: _dialog_boosts
+  m_IsVariant: 0

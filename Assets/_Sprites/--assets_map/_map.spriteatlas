@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _map
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cb1c44ee3b03bba4f9429a63af3bccca, type: 3}
+    - {fileID: 2800000, guid: 2a8387622c40d05489b2676963d317f6, type: 3}
+    - {fileID: 2800000, guid: 90d4d1f4f58cb214bbcf775d47ad49c8, type: 3}
+    - {fileID: 2800000, guid: 8658bec667370b14489255b0421e1e52, type: 3}
+    - {fileID: 2800000, guid: d0545fe98739dc84d9ba76f2c88efc4e, type: 3}
+    - {fileID: 2800000, guid: a83076f76a66a214d8a16c641e90c4b8, type: 3}
+    - {fileID: 2800000, guid: 5c585da807cd3a04fb97a3aa500d6a9c, type: 3}
+    - {fileID: 2800000, guid: 39bde6d8efef4094c9f1e5c8abddfbe1, type: 3}
+    - {fileID: 2800000, guid: cfe2acbdcc9c0854fbf98a60049dff41, type: 3}
+    - {fileID: 2800000, guid: d178710a9b2e99e4698cd92b72d26ed5, type: 3}
+    - {fileID: 2800000, guid: 6e86425b6a1d67c43879304a5781821d, type: 3}
+    - {fileID: 2800000, guid: 245feb8c9f060a74c847dc4f8882bb0c, type: 3}
+    - {fileID: 2800000, guid: 9398349d4cd04744d97cdd7056a7f4a1, type: 3}
+    totalSpriteSurfaceArea: 3582187
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2a8387622c40d05489b2676963d317f6, type: 3}
+  - {fileID: 21300000, guid: 90d4d1f4f58cb214bbcf775d47ad49c8, type: 3}
+  - {fileID: 21300000, guid: 8658bec667370b14489255b0421e1e52, type: 3}
+  - {fileID: 21300000, guid: a83076f76a66a214d8a16c641e90c4b8, type: 3}
+  - {fileID: 21300000, guid: 5c585da807cd3a04fb97a3aa500d6a9c, type: 3}
+  - {fileID: 21300000, guid: 39bde6d8efef4094c9f1e5c8abddfbe1, type: 3}
+  - {fileID: 21300000, guid: d0545fe98739dc84d9ba76f2c88efc4e, type: 3}
+  - {fileID: 21300000, guid: d178710a9b2e99e4698cd92b72d26ed5, type: 3}
+  - {fileID: 21300000, guid: 6e86425b6a1d67c43879304a5781821d, type: 3}
+  - {fileID: 21300000, guid: 245feb8c9f060a74c847dc4f8882bb0c, type: 3}
+  - {fileID: 21300000, guid: 9398349d4cd04744d97cdd7056a7f4a1, type: 3}
+  - {fileID: 21300000, guid: cfe2acbdcc9c0854fbf98a60049dff41, type: 3}
+  - {fileID: 21300000, guid: cb1c44ee3b03bba4f9429a63af3bccca, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - map_planet_connection_line
+  - map_bg
+  - map_planet_4
+  - map_planet_2
+  - map_planet_5
+  - map_meteor_2
+  - map_star
+  - map_planet_3
+  - map_planet_production_bg
+  - map_planet_locked
+  - map_planet_1
+  - map_planet_cost_bg
+  - map_meteor_1
+  m_Tag: _map
+  m_IsVariant: 0

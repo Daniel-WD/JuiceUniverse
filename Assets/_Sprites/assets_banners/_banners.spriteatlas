@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _banners
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9d38b7317affb68458b186c90abe6f45, type: 3}
+    - {fileID: 2800000, guid: 2981bc92df8f920429ba9b70b20590a2, type: 3}
+    - {fileID: 2800000, guid: ab9fb1a2e28699e4a8a4c53613b662b9, type: 3}
+    - {fileID: 2800000, guid: f7fd83f2b0a4f2a45af22273ea77accb, type: 3}
+    - {fileID: 2800000, guid: 55778e84dc3cf3e4b95f60bbfaf7cae2, type: 3}
+    - {fileID: 2800000, guid: c79ea1b7b3a4be24b8b4740b85c3ad36, type: 3}
+    - {fileID: 2800000, guid: 542ce50825d751345a7e143dd8db6371, type: 3}
+    - {fileID: 2800000, guid: d29be678205cbcd4687069d1579eddf4, type: 3}
+    - {fileID: 2800000, guid: 0d808f19b8ef71d46baa7cbab76340c0, type: 3}
+    - {fileID: 2800000, guid: a9e13c1c28699a94189d28660d6ed199, type: 3}
+    - {fileID: 2800000, guid: 4d1ad3cd093b6604aa693003c95e10f9, type: 3}
+    - {fileID: 2800000, guid: 891cc94fad581184ba4aa97bb8b25598, type: 3}
+    totalSpriteSurfaceArea: 93944
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9d38b7317affb68458b186c90abe6f45, type: 3}
+  - {fileID: 21300000, guid: 2981bc92df8f920429ba9b70b20590a2, type: 3}
+  - {fileID: 21300000, guid: ab9fb1a2e28699e4a8a4c53613b662b9, type: 3}
+  - {fileID: 21300000, guid: f7fd83f2b0a4f2a45af22273ea77accb, type: 3}
+  - {fileID: 21300000, guid: 55778e84dc3cf3e4b95f60bbfaf7cae2, type: 3}
+  - {fileID: 21300000, guid: c79ea1b7b3a4be24b8b4740b85c3ad36, type: 3}
+  - {fileID: 21300000, guid: 542ce50825d751345a7e143dd8db6371, type: 3}
+  - {fileID: 21300000, guid: d29be678205cbcd4687069d1579eddf4, type: 3}
+  - {fileID: 21300000, guid: 0d808f19b8ef71d46baa7cbab76340c0, type: 3}
+  - {fileID: 21300000, guid: a9e13c1c28699a94189d28660d6ed199, type: 3}
+  - {fileID: 21300000, guid: 4d1ad3cd093b6604aa693003c95e10f9, type: 3}
+  - {fileID: 21300000, guid: 891cc94fad581184ba4aa97bb8b25598, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - banner_left_two
+  - banner_left_one
+  - banner_center_three
+  - banner_left_four
+  - banner_right_two
+  - banner_right_one
+  - banner_left_three
+  - banner_center_one
+  - banner_right_three
+  - banner_center_four
+  - banner_center_two
+  - banner_right_four
+  m_Tag: _banners
+  m_IsVariant: 0

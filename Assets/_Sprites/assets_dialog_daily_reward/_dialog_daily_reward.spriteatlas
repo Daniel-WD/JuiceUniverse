@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _dialog_daily_reward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6063fa20b1af40a419653fc926a3bb18, type: 3}
+    - {fileID: 2800000, guid: 7057dc150a8b41c449373b439fb6869e, type: 3}
+    - {fileID: 2800000, guid: 923e3c679473a824c89c04f67a996625, type: 3}
+    - {fileID: 2800000, guid: 9d968579d7852de478db17111525bc51, type: 3}
+    totalSpriteSurfaceArea: 1298671
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6063fa20b1af40a419653fc926a3bb18, type: 3}
+  - {fileID: -3591490700938630307, guid: 7057dc150a8b41c449373b439fb6869e, type: 3}
+  - {fileID: 21300000, guid: 923e3c679473a824c89c04f67a996625, type: 3}
+  - {fileID: 21300000, guid: 9d968579d7852de478db17111525bc51, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - d_daily_reward_tick
+  - d_daily_reward_item_bg_0
+  - d_daily_reward_bg
+  - d_daily_reward_item_descr
+  m_Tag: _dialog_daily_reward
+  m_IsVariant: 0

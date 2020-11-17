@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _dialog_settings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c25dac116bf89d3449d82c97aa561280, type: 3}
+    - {fileID: 2800000, guid: 56fd8996944c61f4fad9955d58551005, type: 3}
+    - {fileID: 2800000, guid: df15d93aba93090409ef48b4a8939225, type: 3}
+    - {fileID: 2800000, guid: b49ff8ea26847024f812c5aeb8e1d875, type: 3}
+    - {fileID: 2800000, guid: 2b550018ec2154a4a9fd19d5e7172fe1, type: 3}
+    - {fileID: 2800000, guid: 6ddfbf269afaac845b1de08a5ae8f418, type: 3}
+    - {fileID: 2800000, guid: 52c8e586d44400d4691e6b640cf30f32, type: 3}
+    - {fileID: 2800000, guid: 7c095a1c395312a40ab79b76fe633a86, type: 3}
+    - {fileID: 2800000, guid: 0ae38b1f3a6aa9143979005fbaa0d49b, type: 3}
+    - {fileID: 2800000, guid: 682f4559fe2c2a4468a160995d63f1ca, type: 3}
+    totalSpriteSurfaceArea: 3865151
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c25dac116bf89d3449d82c97aa561280, type: 3}
+  - {fileID: 21300000, guid: 6ddfbf269afaac845b1de08a5ae8f418, type: 3}
+  - {fileID: 6932628220329896180, guid: 52c8e586d44400d4691e6b640cf30f32, type: 3}
+  - {fileID: 21300000, guid: 56fd8996944c61f4fad9955d58551005, type: 3}
+  - {fileID: 21300000, guid: 2b550018ec2154a4a9fd19d5e7172fe1, type: 3}
+  - {fileID: 21300000, guid: 682f4559fe2c2a4468a160995d63f1ca, type: 3}
+  - {fileID: 21300000, guid: df15d93aba93090409ef48b4a8939225, type: 3}
+  - {fileID: 21300000, guid: b49ff8ea26847024f812c5aeb8e1d875, type: 3}
+  - {fileID: 21300000, guid: 7c095a1c395312a40ab79b76fe633a86, type: 3}
+  - {fileID: 21300000, guid: 0ae38b1f3a6aa9143979005fbaa0d49b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - d_settings_bg
+  - d_settings_group_1
+  - d_settings_group_2_0
+  - d_settings_btn_down_normal
+  - d_settings_btn_up_toggle
+  - d_settings_group_5
+  - d_settings_btn_down_toggle
+  - d_settings_btn_normal
+  - d_settings_group_3
+  - d_settings_group_4
+  m_Tag: _dialog_settings
+  m_IsVariant: 0
